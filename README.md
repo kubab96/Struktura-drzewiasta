@@ -6,7 +6,7 @@ Ta instrukcja zawiera kroki potrzebne do uruchomienia aplikacji C# API oraz Vue 
 <p>
 Aby uruchomić C# API, wykonaj następujące kroki:
 <ul>
-<li>Uruchom projekt TreeStructure.sln w Visual Studio.</li>
+<li>Uruchom projekt TreeStructure.sln znajdujący się w folderze TreeStructure w Visual Studio.</li>
 <li>W konsoli menedżera pakietów wykonaj polecenie update-database, aby utworzyć bazę danych.</li>
 <li>Uruchom projekt.</li>
 <li>Aplikacja będzie dostępna pod adresem http://localhost:7124.</li>
