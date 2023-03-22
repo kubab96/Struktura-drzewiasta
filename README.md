@@ -1,18 +1,24 @@
-Instrukcja do uruchomienia struktury drzewiastej
+<h1>Instrukcja do uruchomienia struktury drzewiastej</h1>
 
 Ta instrukcja zawiera kroki potrzebne do uruchomienia aplikacji C# API oraz Vue Frontend na lokalnym komputerze.
 
-Uruchamianie C# API
+<b><h3>Uruchamianie C# API</h3></b>
+<p>
 Aby uruchomić C# API, wykonaj następujące kroki:
-1.	Uruchom projekt TreeStructure.sln w Visual Studio.
-2.	W konsoli menedżera pakietów wykonaj polecenie update-database, aby utworzyć bazę danych.
-3.	Uruchom projekt.
-4.	Aplikacja będzie dostępna pod adresem http://localhost:7124.
+<ul>
+<li>Uruchom projekt TreeStructure.sln w Visual Studio.</li>
+<li>W konsoli menedżera pakietów wykonaj polecenie update-database, aby utworzyć bazę danych.</li>
+<li>Uruchom projekt.</li>
+<li>Aplikacja będzie dostępna pod adresem http://localhost:7124.</li>
+</ul>
 
-Uruchamianie Vue Frontend
+<b><h3>Uruchamianie Vue Frontend</h3></b>
+<p>
 Aby uruchomić Vue Frontend, wykonaj następujące kroki:
-1.	Otwórz folder z projektem tree-structure-vue w edytorze kodu (np. Visual Studio Code).
-2.	Otwórz terminal i przejdź do folderu z projektem.
-3.	Wykonaj polecenie npm install, aby zainstalować zależności projektu.
-4.	Wykonaj polecenie npm run serve, aby uruchomić aplikację.
-5.	Aplikacja będzie dostępna pod adresem http://localhost:8086.
+<ul>
+<li>Otwórz folder z projektem tree-structure-vue w edytorze kodu (np. Visual Studio Code).</li>
+<li>Otwórz terminal i przejdź do folderu z projektem.</li>
+<li>Wykonaj polecenie npm install, aby zainstalować zależności projektu.</li>
+<li>Wykonaj polecenie npm run serve, aby uruchomić aplikację.</li>
+<li>Aplikacja będzie dostępna pod adresem http://localhost:8086.</li>
+</ul>
